@@ -61,7 +61,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanielYeray5&label=Visitas%20al%20perfil&color=blue&style=flat-square" />
 </p>
-
----
-
-<p align="center">✨ Este README fue generado con ayuda de ChatGPT y tu pasión por la informática ✨</p>
