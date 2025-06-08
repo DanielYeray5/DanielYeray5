@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Daniel+Yeray!;Ingeniero+Inform%C3%A1tico+en+formaci%C3%B3n;Apasionado+por+el+backend+y+los+compiladores;Bienvenido+a+mi+GitHub!+👨‍💻" alt="Typing SVG" />
-</h1>
 
 <p align="center"><em>"El código es poesía... y a veces también pesadilla."</em></p>
 
