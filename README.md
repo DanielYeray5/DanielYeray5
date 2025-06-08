@@ -17,9 +17,9 @@
 
 | Proyecto | Descripción | Enlace |
 |---------|-------------|--------|
-| 🧠 **Clasificador de texto con IA** | Clasificación de textos usando Naive Bayes y SVM. Evaluación con métricas en Jupyter. | [Repositorio](https://github.com/DanielYeray5/ia) |
-| ⚙️ **Simulador de compilador** | Análisis léxico, sintáctico y generación de código intermedio con JFlex y CUP. | [Repositorio](https://github.com/DanielYeray5/simulador-compilador) |
-| 📚 **Gestor de libros (React)** | CRUD en React con filtros, Context API y almacenamiento en localStorage. | [Repositorio](https://github.com/DanielYeray5/gestor-libros-react) |
+| 🧠 **Clasificador de texto con IA** | Clasificación de textos usando Naive Bayes y SVM. Evaluación con métricas en Jupyter. | [Repositorio](https://github.com/DanielYeray5/Notebook) |
+| ⚙️ **Simulador de compilador** | Análisis léxico, sintáctico y generación de código intermedio con JFlex y CUP. | [Repositorio](https://github.com/DanielYeray5/compilador) |
+| 📚 **Gestor de libros (React)** | CRUD en React con filtros, Context API y almacenamiento en localStorage. | [Repositorio]([https://github.com/DanielYeray5/gestor-libros-react](https://github.com/DanielYeray5/proyecto1-react)) |
 
 ---
 
