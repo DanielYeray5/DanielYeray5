@@ -1,14 +1,18 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Daniel+Yeray!;Ingeniero+Inform%C3%A1tico+en+formaci%C3%B3n;Apasionado+por+el+backend+y+los+compiladores;Bienvenido+a+mi+GitHub!+👨‍💻" alt="Typing SVG" />
+</h1>
+
 <p align="center"><em>"El código es poesía... y a veces también pesadilla."</em></p>
 
 ---
 
 ### 🧠 Sobre mí
 
-- 🎓 Estudiante de Ingeniería Informática
-- 💻 Me interesa el desarrollo backend, los compiladores y los lenguajes de programación
-- 🌱 Actualmente aprendiendo más sobre React, IA y sistemas distribuidos
-- 🧪 Experiencia trabajando con Flex, JFlex, JavaCC, y herramientas de análisis léxico/sintáctico
-- 🧩 Siempre dispuesto a aprender algo nuevo y aportar en proyectos colaborativos
+- 🎓 Estudiante de Ingeniería Informática  
+- 💻 Apasionado por el backend, los compiladores y los lenguajes de programación  
+- 🌱 Aprendiendo sobre React, Inteligencia Artificial y sistemas distribuidos  
+- 🧪 Experiencia con Flex, JFlex, JavaCC y otras herramientas de análisis léxico/sintáctico  
+- 🤝 Abierto a colaborar en proyectos que me reten y me enseñen algo nuevo  
 
 ---
 
@@ -16,27 +20,21 @@
 
 | Proyecto | Descripción | Enlace |
 |---------|-------------|--------|
-| 🧾 **Analizador léxico en Java** | Analizador de código fuente usando JFlex y CUP. | [Repositorio](https://github.com/DanielYeray5/analizara) |
-| 📊 **Evaluación de resultados IA** | Jupyter Notebooks para análisis de precisión y métricas de modelos. | [Repositorio](https://github.com/DanielYeray5/ia) |
-| 📚 **Gestor de libros (React)** | CRUD completo con filtros, context y localStorage. | [Repositorio](https://github.com/DanielYeray5/gestor-libros-react) |
+| 🧠 **Clasificador de texto con IA** | Clasificación de textos usando Naive Bayes y SVM. Evaluación con métricas en Jupyter. | [Repositorio](https://github.com/DanielYeray5/ia) |
+| ⚙️ **Simulador de compilador** | Análisis léxico, sintáctico y generación de código intermedio con JFlex y CUP. | [Repositorio](https://github.com/DanielYeray5/simulador-compilador) |
+| 📚 **Gestor de libros (React)** | CRUD en React con filtros, Context API y almacenamiento en localStorage. | [Repositorio](https://github.com/DanielYeray5/gestor-libros-react) |
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### 🛠️ Tecnologías y herramientas
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,react,mysql,postgres,docker,git,vscode&theme=light" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielYeray5&show_icons=true&theme=radical" width="47%" />
@@ -51,8 +49,14 @@
 
 ### 🌍 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/danielyeraynogueziniestra/)
-[![Correo](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:danielyeraynogueziniestra@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielyeraynogueziniestra/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:danielyeraynogueziniestra@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
